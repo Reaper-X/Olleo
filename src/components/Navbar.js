@@ -31,7 +31,7 @@ const Navbar = class extends React.Component {
       }
     )
   }
-
+    //TO-DO: Make mad changes to reflect the Olleo way
   render() {
     return (
       <nav
@@ -45,11 +45,7 @@ const Navbar = class extends React.Component {
               <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
             </Link>
             {/* Hamburger menu */}
-            <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-            >
+            <div className={`navbar-burger burger ${this.state.navBarActiveClass}`} data-target="navMenu" onClick={() => this.toggleHamburger()}>
               <span />
               <span />
               <span />
