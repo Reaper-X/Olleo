@@ -2,10 +2,10 @@
 templateKey: index-page
 title: Olleo Is the shit
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Fast, reliable websites at the drop of a hat
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
+  title: Why Olleo
   description: >
     Olleo is new way of getting a fast, reliable website at the drop of a hat. 
     It's the best way to get more attention to your business. We're here to help
