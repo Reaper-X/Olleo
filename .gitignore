@@ -7,3 +7,12 @@ public/
 static/admin/*.bundle.*
 .DS_Store
 yarn-error.log
+
+# Local Netlify folder
+.netlify
+/.vs/Olleo/v16/.suo
+/.vs/Olleo/config/applicationhost.config
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/package-lock.json
